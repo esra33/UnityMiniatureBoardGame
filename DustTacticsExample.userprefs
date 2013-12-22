@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2.TilesExample\SquareParentedBoard.cs">
+    <Files>
+      <File FileName="Assets\1.BasicTileSystem\ITileManager.cs" Line="68" Column="1" />
+      <File FileName="Assets\1.BasicTileSystem\ITile.cs" Line="1" Column="1" />
+      <File FileName="Assets\1.BasicTileSystem\ITileIterator.cs" Line="1" Column="1" />
+      <File FileName="Assets\1.BasicTileSystem\IGameEntity.cs" Line="1" Column="1" />
+      <File FileName="Assets\2.TilesExample\SquareParentedBoard.cs" Line="22" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="1.BasicTileSystem" expanded="True" />
+            <Node name="2.TilesExample" expanded="True">
+              <Node name="SquareParentedBoard.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>transform.position.z + (y - m_TilesHeight*0.5f)*tileSize.z + offsetY)</Value>
+          <Value>transform.position.x + (x - m_TilesWidth*0.5f)*tileSize.x + offsetX</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
